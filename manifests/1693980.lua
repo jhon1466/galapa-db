@@ -1,7 +1,7 @@
--- 1693980's Lua and Manifest Created by Morrenus
+-- 1693980's Lua and Manifest Created by Hubcap Manifest
 -- Dead Space
 -- Created: September 29, 2025 at 06:56:38 EDT
--- Website: https://manifest.morrenus.xyz/
+-- Website: https://hubcapmanifest.com/
 -- Total Depots: 2
 -- Total DLCs: 1
 -- Shared Depots: 1
